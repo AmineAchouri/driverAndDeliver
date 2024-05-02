@@ -1,4 +1,4 @@
-package io.pivotal.loansource;
+package fr.carrefour.kata;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

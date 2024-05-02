@@ -1,5 +1,8 @@
 package fr.carrefour.kata;
 
+/**
+ * @author Amine Achouri
+ */
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

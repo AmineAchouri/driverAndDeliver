@@ -1,4 +1,4 @@
-package io.pivotal.loansource;
+package fr.carrefour.kata;
 
 
 /**
